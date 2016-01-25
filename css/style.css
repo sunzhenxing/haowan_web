@@ -1,0 +1,23 @@
+body {
+	padding: 5px auto;
+	background-color: white;
+}
+
+header {
+	height: 80px;
+	width: 100%;
+}
+
+nav{
+	vertical-align: middle;
+}
+
+nav img{
+	position: relative;
+	display: inline-block;
+}
+
+nav ul{
+	position: relative;
+	display: inline-block;
+}
